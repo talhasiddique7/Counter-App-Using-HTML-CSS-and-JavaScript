@@ -11,8 +11,12 @@ The counter app is a lightweight web tool developed with HTML, CSS, and JavaScri
 - Increment and decrement the count.
 - Save counts with additional user information.
 - View saved count data.
+## Working Gif
+![Alt Text](https://github.com/talhasiddique7/Counter-App-Using-HTML-CSS-and-JavaScript/blob/main/Counter%20App%20and%2023%20more%20pages%20-%20Personal%20-%20Microsoft_%20Edge%202023-11-22%2013-01-21.gif)
+
 ## Interface:
 <img src="https://github.com/talhasiddique7/Counter-App-Using-HTML-CSS-and-JavaScript/blob/main/Screenshot%202023-11-22%20125849.png">
+
 ## Technologies Used
 
 List the technologies or languages used to build the app, such as HTML, CSS, JavaScript.
