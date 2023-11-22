@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Counter App</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <div class="counter-container">
+      <div class="counter">
+        <h2>Counter App</h2>
+        <div class="display">
+          <h1 id="count">0</h1>
+        </div>
+        <div class="buttons">
+          <button class="increment" onclick="increase()">+</button>
+          <button class="decrement" onclick="decrease()">-</button>
+        </div>
+      </div>
+    </div>
+    <div class="actions">
+      <button class="save" onclick="saveData()">Save Data</button>
+      <button class="show" onclick="showSavedData()">Show Data</button>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
