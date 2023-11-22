@@ -14,7 +14,10 @@ function increase() {
   }
   updateCount();
 }
-
+function reset(){
+    count=0;
+    updateCount();
+}
 function decrease() {
     if(count==0){
         count=0;
