@@ -20,14 +20,14 @@ body {
     padding: 20px;
     border-radius: 10px;
     text-align: center;
-    height: 230px;
-    width: 230px;
+    height: 380px;
+    width: 330px;
 
   }
   
   h2 {
     margin-top: 0;
-    font-size: 1.5em;
+    font-size: 2.5em;
     color: #333;
   }
   
@@ -36,14 +36,14 @@ body {
   }
   
   .display h1 {
-    font-size: 4em;
+    font-size: 10em;
     margin: 0;
     color: #333;
   }
   
   .buttons button {
     font-size: 1.5em;
-    padding: 10px 20px;
+    padding: 20px 20px;
     border: none;
     border-radius: 30%;
     cursor: pointer;
@@ -57,6 +57,7 @@ body {
   
   .actions {
     margin-top: 20px;
+    
   }
   
   .actions button {
@@ -73,4 +74,9 @@ body {
   .actions button:hover {
     background-color: #45a049;
   }
-  
+.save{
+  width: 180px;
+  }
+.show{
+  width: 180px;
+}
